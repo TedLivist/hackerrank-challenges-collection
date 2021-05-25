@@ -6,3 +6,5 @@
 
 ##### N.B.: Some of the other hackerrank challenges whose repositories I have named after them are not included here.
 
+#### - Pangrams
+The challenge can be found [here](https://www.hackerrank.com/challenges/pangrams/problem)
