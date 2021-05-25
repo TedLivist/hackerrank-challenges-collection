@@ -1,6 +1,6 @@
 ## Hackerrank Challenges Collection
 
-#### This is a collection of some of the coding challenges I have completed on Hackerrank.
+#### This is a collection of some of the coding challenges I have completed on Hackerrank using Javascript
 
 <hr>
 
