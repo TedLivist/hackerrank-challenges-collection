@@ -26,3 +26,11 @@ function pangram(s) {
     return "pangram"
   }
 }
+
+function miniMaxSum(arr) {
+  arr.sort((a, b) => a - b)
+  let minSlice = arr.slice(0, arr.length - 1)
+  let maxSlice = arr.slice(1, arr.length)
+
+  console.log(minSlice.reduce((a, b) => a + b), maxSlice.reduce((a, b) => a + b))
+}
