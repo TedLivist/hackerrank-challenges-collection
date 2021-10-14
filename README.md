@@ -8,3 +8,6 @@
 
 #### - Pangrams
 The challenge can be found [here](https://www.hackerrank.com/challenges/pangrams/problem)
+
+#### - MiniMaxSum
+The challenge can be found [here](https://www.hackerrank.com/challenges/mini-max-sum/problem)
